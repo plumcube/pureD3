@@ -1,0 +1,17 @@
+{
+	"name": "oracle",
+	"version": "0.1.0",
+	"description": "D3 visualization framework",
+	"keywords": ["realtime","sockets","d3"],
+	"author": "Sandro Pasquali <spasquali@gmail.com>",
+	"dependencies": {
+		"clio"			: "*",
+		"ws"			: "*",
+		"should"		: "*",
+		"mocha"			: "*",
+		"jade"			: "*",
+		"node-uuid"		: "*",
+		"moment"		: "*"
+	},
+	"engine": "node >= 0.10.4"
+}

@@ -1,0 +1,6 @@
+{
+	"socketPort"	: 3000,
+	"udpPort"		: 41234,
+	"udpHost"		: "0.0.0.0",
+	"WAMPSig"		: "pureD3 Server"
+}
